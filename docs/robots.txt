@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://metnft.github.io/sitemap.xml
